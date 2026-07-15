@@ -1,4 +1,4 @@
-# Bridging Paradises: asymmetric south-to-north dispersals in Squamate support a complex emergence of the Isthmus of Panama
+# Bridging Paradises: asymmetric south-to-north dispersals in squamates support a complex emergence of the Isthmus of Panama
 
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
