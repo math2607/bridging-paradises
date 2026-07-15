@@ -1,0 +1,4 @@
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+Anolis_resDECj	Anolis_resDEC	-139.2	-164.6	3	2	1	50.82	1.0e-12	chi-squared	one-tailed	284.3	333.1	1.00	2.5e-11	3.99e+10	2.5e-11
+Anolis_resDIVALIKEj	Anolis_resDIVALIKE	-139.8	-163.7	3	2	1	47.88	4.5e-12	chi-squared	one-tailed	285.5	331.4	1.00	1.1e-10	9.18e+09	1.1e-10
+Anolis_resBAYAREALIKEj	Anolis_resBAYAREALIKE	-146.1	-236.4	3	2	1	180.8	3.3e-41	chi-squared	one-tailed	298.1	476.9	1	1.5e-39	6.55e+38	1.5e-39

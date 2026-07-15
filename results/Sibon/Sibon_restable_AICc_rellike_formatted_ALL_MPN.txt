@@ -1,0 +1,7 @@
+Model	LnL	numparams	d	e	j	AICc	AICc_wt
+Sibon_resDECj	-20.23	3	1.0e-12	1.0e-12	0.100	47.67	0.42
+Sibon_resDIVALIKEj	-20.47	3	0.0010	0.0010	0.10	48.15	0.33
+Sibon_resBAYAREALIKEj	-20.78	3	1.0e-05	1.0e-05	0.096	48.77	0.24
+Sibon_resDIVALIKE	-26.4	2	0.048	1.0e-12	0	57.38	0.0033
+Sibon_resDEC	-31.3	2	0.040	1.0e-12	0	67.18	2.4e-05
+Sibon_resBAYAREALIKE	-38.89	2	0.038	0.18	0	82.36	1.2e-08

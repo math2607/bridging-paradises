@@ -1,0 +1,78 @@
+# CITATION.cff -- machine-readable citation metadata.
+#
+# GitHub reads this file and shows a "Cite this repository" button on the
+# repository page, offering APA and BibTeX. Zenodo also reads it when minting
+# the DOI, and pre-fills the deposit's authors and title from here.
+#
+# Format reference: https://citation-file-format.github.io/
+# Validate at:      https://citation-file-format.github.io/cff-initializer-javascript/
+
+# STATUS: pre-publication. No article DOI and no Zenodo DOI yet. After the
+# Zenodo release, add `doi:` and cut v1.0.1. After the article is accepted,
+# add a `preferred-citation:` block with the article.
+
+cff-version: 1.2.0
+message: "If you use this software or these data, please cite it as below."
+title: "Code and data for: Bridging Paradises - squamate dispersal across the Isthmus of Panama"
+abstract: >-
+  Biogeographic reconstruction of eight Neotropical squamate genera across the
+  Isthmus of Panama, using BioGeoBEARS model comparison and 1,000
+  Biogeographical Stochastic Maps per genus to estimate the timing and
+  directionality of dispersal events. Area B is defined as the union of the
+  Guatuso-Talamanca and Puntarenas-Chiriqui biogeographic provinces sensu
+  Morrone (2014).
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-15"
+repository-code: "https://github.com/math2607/bridging-paradises"
+
+# One block per author, in the order they appear on the article.
+# Delete the blocks you do not need; add more by copying the pattern.
+authors:
+  - family-names: "Pontes-Nogueira"
+    given-names: "Matheus"
+    orcid: "https://orcid.org/0000-0002-2146-1346"
+    affiliation: "Universidade Federal do ABC, Brazil"
+  - family-names: "Sawaya"
+    given-names: "Ricardo J."
+    orcid: "https://orcid.org/0000-0003-1897-1836"
+    affiliation: "Universidade Federal do ABC, Brazil"
+
+keywords:
+  - biogeography
+  - Isthmus of Panama
+  - Squamata
+  - BioGeoBEARS
+  - biogeographical stochastic mapping
+  - Neotropics
+  - species delimitation
+
+# Third-party sources this work depends on.
+references:
+  - type: data
+    title: "GBIF Occurrence Download"
+    authors:
+      - name: "GBIF.org"
+    year: 2026
+    doi: "10.15468/dl.n295k4"
+  - type: article
+    title: "Neotropical region: a shapefile of Morrone's (2014) biogeographical regionalisation"
+    authors:
+      - family-names: "Lowenberg-Neto"
+        given-names: "Peter"
+    journal: "Zootaxa"
+    volume: 3802
+    issue: 2
+    year: 2014
+    doi: "10.11646/zootaxa.3802.2.12"
+  - type: article
+    title: "Biogeographical regionalisation of the Neotropical region"
+    authors:
+      - family-names: "Morrone"
+        given-names: "Juan J."
+    journal: "Zootaxa"
+    volume: 3782
+    issue: 1
+    year: 2014
+    doi: "10.11646/zootaxa.3782.1.1"

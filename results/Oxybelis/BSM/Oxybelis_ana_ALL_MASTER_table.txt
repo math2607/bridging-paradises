@@ -1,0 +1,2 @@
+,node,node.type,current_rangetxt,event_type,event_txt,ana_dispersal_from,dispersal_to,event_time,abs_event_time,nmap
+1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,23 @@
+21	3	(A	B	C)
+Oxybelis_microphthalmus	100
+Oxybelis_microphthalmus_1	100
+Oxybelis_microphthalmus_2	100
+Oxybelis_microphthalmus_3	100
+Oxybelis_inkaterra	001
+Oxybelis_rutherfordi	001
+Oxybelis_koehleri	100
+Oxybelis_potosiensis	100
+Oxybelis_transandinus	001
+Oxybelis_vittatus	010
+Oxybelis_brevirostris	001
+Oxybelis_fulgidus	100
+Oxybelis_fulgidus_1	100
+Oxybelis_fulgidus_2	001
+Oxybelis_aeneus	100
+Oxybelis_brevirostris_1	010
+Oxybelis_brevirostris_2	001
+Oxybelis_brevirostris_3	001
+Oxybelis_fulgidus_3	001
+Oxybelis_microphthalmus_4	100
+Oxybelis_microphthalmus_5	100
+

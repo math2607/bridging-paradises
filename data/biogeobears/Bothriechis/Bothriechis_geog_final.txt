@@ -1,0 +1,23 @@
+21	3	(A	B	C)
+Bothriechis_bicolor_Bothriechis_aurifer	100
+Bothriechis_marchi	100
+Bothriechis_nigroviridis	010
+Bothriechis_guifarroi	100
+Bothriechis_hussaini	001
+Bothriechis_rahimi	001
+Bothriechis_nitidus	001
+Bothriechis_klebbai_Bothriechis_khwargi	001
+Bothriechis_khwargi	001
+Bothriechis_schlegelii	001
+Bothriechis_nigroadspersus_Bothriechis_schlegelii	110
+Bothriechis_nigroadspersus	010
+Bothriechis_nigroadspersus_1	010
+Bothriechis_supraciliaris	010
+Bothriechis_guifarroi_1	100
+Bothriechis_lateralis	010
+Bothriechis_nigroadspersus_2	010
+Bothriechis_nubestris	010
+Bothriechis_rasikusumorum	001
+Bothriechis_thalassinus	100
+Bothriechis_torvus	001
+

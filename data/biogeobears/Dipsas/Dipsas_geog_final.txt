@@ -1,0 +1,20 @@
+18	3	(A	B	C)
+Dipsas_bicolor_Dipsas_articulata	010
+Dipsas_gracilis	001
+Dipsas_temporalis	010
+Dipsas_catesbyi	001
+Dipsas_pavonina_Dipsas_catesbyi	001
+Dipsas_gaigeae	100
+Dipsas_andiana	001
+Dipsas_gaigeae_1	100
+Dipsas_gracilis_1	001
+Dipsas_indica	001
+Dipsas_nicholsi	010
+Dipsas_oligozonata	001
+Dipsas_peruana	001
+Dipsas_peruana_1	001
+Dipsas_pratti	001
+Dipsas_pratti_1	001
+Dipsas_turgida	001
+Dipsas_vermiculata	001
+

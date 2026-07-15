@@ -1,0 +1,27 @@
+25	3	(A	B	C)
+Marisora_brachypoda_Marisora_roatanae	100
+Marisora_roatanae	100
+Marisora_brachypoda	100
+Marisora_unimarginata_Marisora_syntoma	100
+Marisora_unimarginata_Marisora_syntoma_1	100
+Marisora_unimarginata_Marisora_syntoma_2	100
+Marisora_urtica_Marisora_unimarginata	100
+Marisora_unimarginata_Marisora_aquilonaria	100
+Marisora_unimarginata_Marisora_aquilonaria_1	100
+Marisora_aquilonaria_Marisora_unimarginata	100
+Marisora_aquilonaria	100
+Marisora_unimarginata_Marisora_lineola	100
+Marisora_pergravis	001
+Marisora_falconensis	001
+Marisora_falconensis_1	001
+Marisora_unimarginata	010
+Marisora_berengerae	001
+Marisora_alliacea	010
+Marisora_brachypoda_1	010
+Marisora_falconensis_2	001
+Marisora_roatanae_1	100
+Marisora_roatanae_2	100
+Marisora_unimarginata_1	010
+Marisora_unimarginata_2	010
+Marisora_urtica	100
+

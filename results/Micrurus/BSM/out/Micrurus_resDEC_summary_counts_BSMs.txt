@@ -1,0 +1,4 @@
+founder	a	d	e	subset	vicariance	sympatry	ALL_disp	ana_disp	all_ana	all_clado	total_events
+means	0	0	1.89	0	3.75	1.4	6.85	1.89	1.89	1.89	12	13.89
+stdevs	0	0	0.69	0	1.01	0.56	0.72	0.69	0.69	0.69	0	0.69
+sums	0	0	1889	0	3752	1398	6850	1889	1889	1889	12000	13889

@@ -1,0 +1,62 @@
+# ---- R session state: never commit ----
+# .RData is a snapshot of your whole workspace. Committing it makes the repo
+# unreproducible: objects appear from nowhere and nobody knows where from.
+.RData
+.Rdata
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.Ruserdata
+
+# ---- Secrets: never commit ----
+# .Renviron holds API keys (e.g. ENTREZ_KEY). Once a key is pushed it is
+# public forever, even if you delete it in the next commit.
+.Renviron
+.Rprofile
+
+# ---- Large intermediates: these live on Zenodo, not here ----
+# GitHub rejects files over 100 MB and complains above 1 GB per repo.
+*.rda
+*.rds
+data/raw/*.csv
+data/raw/*.tre
+data/sequences/
+r_sequences/
+r_grouping/
+
+# ---- Third-party binaries: never commit ----
+*.exe
+asapy*
+astral*
+*.jar
+
+# ---- Working files, not deliverables ----
+*.xcf
+*.psd
+*.ai
+
+# ---- Superseded intermediates ----
+*_old/
+old/
+1_old/
+*_NEW.*
+*_renamed.*
+
+# ---- OS and editor cruft ----
+# These get created automatically and are pure noise in a diff.
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.Rhistory
+
+# ---- Explicitly keep the small, essential inputs ----
+# (a "!" line un-ignores something a rule above would have caught)
+!data/geography/A.*
+!data/geography/B.*
+!data/geography/C.*
+!data/biogeobears/**/*.newick
+!data/biogeobears/**/*.tre
+!data/biogeobears/**/*.txt
+!data/raw/gbif_download_doi.txt

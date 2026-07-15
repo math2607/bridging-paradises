@@ -1,0 +1,2 @@
+,node,node.type,sampled_states_AT_nodes,clado_event_type,clado_event_txt,clado_dispersal_from,clado_dispersal_to,time_bp,left_desc_nodes,right_desc_nodes,nmap
+1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

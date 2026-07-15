@@ -1,0 +1,4 @@
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+Bothriechis_resDECj	Bothriechis_resDEC	-18.21	-21.14	3	2	1	5.87	0.015	chi-squared	one-tailed	42.41	46.28	0.87	0.13	6.91	0.14
+Bothriechis_resDIVALIKEj	Bothriechis_resDIVALIKE	-18.06	-21.73	3	2	1	7.33	0.0068	chi-squared	one-tailed	42.13	47.46	0.93	0.065	14.37	0.070
+Bothriechis_resBAYAREALIKEj	Bothriechis_resBAYAREALIKE	-19.93	-27.57	3	2	1	15.27	9.3e-05	chi-squared	one-tailed	45.86	59.13	1.00	0.0013	762.1	0.0013

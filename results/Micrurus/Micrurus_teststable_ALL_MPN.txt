@@ -1,0 +1,4 @@
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+Micrurus_resDECj	Micrurus_resDEC	-14.74	-15.28	3	2	1	1.09	0.30	chi-squared	one-tailed	35.47	34.56	0.39	0.61	0.63	1.58
+Micrurus_resDIVALIKEj	Micrurus_resDIVALIKE	-14.95	-17.06	3	2	1	4.22	0.040	chi-squared	one-tailed	35.91	38.13	0.75	0.25	3.03	0.33
+Micrurus_resBAYAREALIKEj	Micrurus_resBAYAREALIKE	-16.41	-19.24	3	2	1	5.65	0.017	chi-squared	one-tailed	38.83	42.48	0.86	0.14	6.22	0.16

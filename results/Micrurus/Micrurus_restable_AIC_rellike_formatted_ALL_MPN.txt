@@ -1,0 +1,7 @@
+Model	LnL	numparams	d	e	j	AIC	AIC_wt
+Micrurus_resDEC	-15.28	2	0.015	1.0e-12	0	34.56	0.41
+Micrurus_resDECj	-14.74	3	0.016	1.0e-12	0.048	35.47	0.26
+Micrurus_resDIVALIKEj	-14.95	3	0.019	0.0010	0.068	35.91	0.21
+Micrurus_resDIVALIKE	-17.06	2	0.034	1.0e-12	0	38.13	0.069
+Micrurus_resBAYAREALIKEj	-16.41	3	0.016	1.0e-05	0.094	38.83	0.048
+Micrurus_resBAYAREALIKE	-19.24	2	1.0e-12	0.11	0	42.48	0.0078

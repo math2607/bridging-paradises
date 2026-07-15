@@ -1,0 +1,4 @@
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+Marisora_resDECj	Marisora_resDEC	-15.73	-22.64	3	2	1	13.81	0.0002	chi-squared	one-tailed	37.47	49.27	1.00	0.0027	366.2	0.0027
+Marisora_resDIVALIKEj	Marisora_resDIVALIKE	-16.25	-20.14	3	2	1	7.8	0.0052	chi-squared	one-tailed	38.49	44.29	0.95	0.052	18.14	0.055
+Marisora_resBAYAREALIKEj	Marisora_resBAYAREALIKE	-16.13	-28.49	3	2	1	24.72	6.6e-07	chi-squared	one-tailed	38.26	60.98	1.00	1.2e-05	85888	1.2e-05

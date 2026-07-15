@@ -1,0 +1,26 @@
+24	3	(A	B	C)
+Sibon_annulatus_1	010
+Sibon_lamari	010
+Sibon_carri	100
+Sibon_merendonensis_Sibon_miskitus_Sibon_dimidiatus_Sibon_manzanaresi	100
+Sibon_nebulatus	001
+Sibon_nebulatus_1	010
+Sibon_nebulatus_2	001
+Sibon_nebulatus_3	100
+Sibon_nebulatus_4	100
+Sibon_nebulatus_5	100
+Sibon_nebulatus_6	100
+Sibon_argus	010
+Sibon_longifrenis	100
+Sibon_annulatus_2	010
+Sibon_annulatus_3	100
+Sibon_dimidiatus	010
+Sibon_nebulatus_7	001
+Sibon_nebulatus_8	100
+Sibon_nebulatus_9	001
+Sibon_nebulatus_10	001
+Sibon_nebulatus_11	001
+Sibon_nebulatus_12	001
+Sibon_nebulatus_13	100
+Sibon_perissostichon	010
+

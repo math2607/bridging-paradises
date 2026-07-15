@@ -1,0 +1,7 @@
+Model	LnL	numparams	d	e	j	AIC	AIC_wt
+Bothrops_resDECj	-37.85	3	0.017	1.0e-12	0.024	81.69	0.35
+Bothrops_resDIVALIKEj	-37.86	3	0.018	0.0010	0.023	81.72	0.35
+Bothrops_resBAYAREALIKEj	-37.98	3	0.016	1.0e-05	0.024	81.96	0.31
+Bothrops_resDEC	-50.05	2	0.045	0.025	0	104.1	4.7e-06
+Bothrops_resDIVALIKE	-50.08	2	0.046	0.026	0	104.2	4.6e-06
+Bothrops_resBAYAREALIKE	-52.44	2	0.029	0.072	0	108.9	4.4e-07

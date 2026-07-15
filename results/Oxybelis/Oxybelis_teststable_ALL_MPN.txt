@@ -1,0 +1,4 @@
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+Oxybelis_resDECj	Oxybelis_resDEC	-18.26	-31.25	3	2	1	25.99	3.4e-07	chi-squared	one-tailed	42.52	66.51	1.00	6.2e-06	161818	6.2e-06
+Oxybelis_resDIVALIKEj	Oxybelis_resDIVALIKE	-18.28	-29.63	3	2	1	22.71	1.9e-06	chi-squared	one-tailed	42.55	63.26	1.00	3.2e-05	31412	3.2e-05
+Oxybelis_resBAYAREALIKEj	Oxybelis_resBAYAREALIKE	-19.05	-39.27	3	2	1	40.44	2.0e-10	chi-squared	one-tailed	44.1	82.55	1.00	4.5e-09	2.22e+08	4.5e-09

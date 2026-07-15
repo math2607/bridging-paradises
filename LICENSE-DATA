@@ -1,0 +1,68 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Matheus Pontes-Nogueira and Ricardo J. Sawaya
+
+WHAT THIS COVERS
+================
+Everything in this repository EXCEPT the contents of scripts/, which are
+licensed under the MIT License (see LICENSE). Specifically:
+
+    data/biogeobears/     per-genus trees and area matrices
+    data/geography/       areas A, B and C
+    results/              model comparison tables and BSM outputs
+    figures/              ancestral range reconstructions
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+    Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+    Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+ADDITIONAL ATTRIBUTION REQUIRED FOR data/geography/
+===================================================
+A.shp, B.shp and C.shp are derivative works. Area B is the union of
+biogeographic provinces 18 (Guatuso-Talamanca) and 19 (Puntarenas-Chiriqui) of
+Morrone's (2014) regionalisation, taken from the shapefile of Lowenberg-Neto
+(2014); areas A and C are Natural Earth land polygons clipped by B.
+
+If you reuse these polygons you MUST also cite:
+
+  Lowenberg-Neto, P. (2014) Neotropical region: a shapefile of Morrone's (2014)
+  biogeographical regionalisation. Zootaxa 3802(2): 300.
+  https://doi.org/10.11646/zootaxa.3802.2.12
+  [Licensed CC BY 3.0. The shapefile's FGDC metadata states access constraints:
+   none; use constraints: authorship credit.]
+
+  Morrone, J.J. (2014) Biogeographical regionalisation of the Neotropical
+  region. Zootaxa 3782(1): 1-110.
+  https://doi.org/10.11646/zootaxa.3782.1.1
+
+The land polygons derive from Natural Earth (ne_50m_land v4.0.0), which is in
+the public domain and requires no attribution, but whose use we acknowledge.
+
+CC BY 3.0 is not a copyleft licence, so this derivative may carry CC BY 4.0
+provided the attribution above is preserved.
+
+
+THIRD-PARTY DATA NOT COVERED BY THIS LICENCE
+============================================
+The following are NOT redistributed in this repository and are NOT covered by
+this licence. They are retrieved at run time under their own terms:
+
+  GBIF occurrence records
+      Aggregate of 3,780,267 records from 1,225 datasets under heterogeneous
+      licences (CC0, CC BY, CC BY-NC). No single licence covers the aggregate.
+      Retrieved by scripts/00_download_gbif.R.
+      Cite: GBIF.org (20 February 2026) GBIF Occurrence Download
+            https://doi.org/10.15468/dl.n295k4
+
+  GADM administrative units
+      Downloaded at run time by geodata::gadm() into a temporary directory,
+      under GADM's own terms, which prohibit redistribution and commercial use.
+
+  GenBank sequences
+      US Government public domain. Accession numbers are listed in the article's
+      supplementary material.
+
+See data/README.md for the full provenance table.
