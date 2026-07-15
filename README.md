@@ -3,11 +3,9 @@
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
 
-Code and data supporting:
-
-NOTE: the citation will be provided once the paper is published
-
-> [AUTHORS]. [YEAR]. [FULL TITLE]. *[JOURNAL]* [VOL]: [PAGES]. https://doi.org/[ARTICLE DOI]
+Code and data supporting a manuscript in preparation on squamate dispersal
+across the Isthmus of Panama. The full citation will be added here once the
+article is published.
 
 Archived snapshot: https://doi.org/10.5281/zenodo.XXXXXXX
 

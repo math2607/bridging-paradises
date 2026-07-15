@@ -26,7 +26,7 @@ This is deliberate: the boundary is biological rather than national.
 In QGIS:
 
 1. Load `ne_50m_land` (Natural Earth, land polygons including major islands).
-2. Load `Lowenberg_Neto_2014.shp` from öwenberg-Neto, P. (2014) and select provinces 18 and 19 (`NUMB`
+2. Load `Lowenberg_Neto_2014.shp` from Löwenberg-Neto, P. (2014) and select provinces 18 and 19 (`NUMB`
    field). Their union is **B**.
 3. Clip `ne_50m_land` by B. Land north of B becomes **A**; land south of B
    becomes **C**.

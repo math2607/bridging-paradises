@@ -70,10 +70,9 @@ agreement graph, in `01_main_analysis.R`).
 
 | | |
 |---|---|
-| Tool | `SpartExplorer` |
+| Tool | ASAP, via SpartExplorer (web service) |
+| Version | ASAP as served on 2026-07-15 |
 | Source | https://spartexplorer.mnhn.fr/delimitation |
-| Input | `<Genus>_merged_trimmed_sequences_0.50_NEW.fas` |
-| Output consumed by R | `<Genus>_result_asap.txt` |
 
 ## 4. Geographic areas
 
