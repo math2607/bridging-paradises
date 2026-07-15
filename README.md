@@ -2,12 +2,13 @@
 
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
+[![DOI](https://zenodo.org/badge/1301905151.svg)](https://doi.org/10.5281/zenodo.21383597)
 
 Code and data supporting a manuscript in preparation on squamate dispersal
 across the Isthmus of Panama. The full citation will be added here once the
 article is published.
 
-Archived snapshot: https://doi.org/10.5281/zenodo.XXXXXXX
+Archived snapshot: https://doi.org/10.5281/zenodo.21383597
 
 ---
 

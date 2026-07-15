@@ -25,6 +25,7 @@ type: software
 license: MIT
 version: "1.0.0"
 date-released: "2026-07-15"
+doi: "10.5281/zenodo.21383597"
 repository-code: "https://github.com/math2607/bridging-paradises"
 
 # One block per author, in the order they appear on the article.
